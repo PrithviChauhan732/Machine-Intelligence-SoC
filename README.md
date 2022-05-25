@@ -1,5 +1,5 @@
 # Machine-Intelligence-SoC
-SoC Project_Introduction to Machine Intelligence
+#### SoC Project_Introduction to Machine Intelligence_By Prithvi Chauhan
 
 #### Week 1
 Learnt about Python and using Jupyter Notebook. <br>
