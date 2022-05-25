@@ -1,2 +1,2 @@
 # Machine-Intelligence-SoC
-SoC Project _ Introduction to Machine Intelligence
+SoC Project_Introduction to Machine Intelligence
