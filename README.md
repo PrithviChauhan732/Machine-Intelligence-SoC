@@ -13,10 +13,24 @@ Continued with Python Libraries <br>
 **Numpy** and **Pandas** from the same Py-Ck Course (https://github.com/Python-is-Cool-Kids/PyCK-2021) <br>
 Learnt about **Git and Github Fundamentals** <br>
 Links : 
-<ul>
-  <li>https://youtu.be/DVRQoVRzMIY](https://youtu.be/DVRQoVRzMIY</li>
-  <li>https://youtu.be/USjZcfj8yxE](https://youtu.be/USjZcfj8yxE</li>
-</ul>
+* https://youtu.be/DVRQoVRzMIY</li>
+* https://youtu.be/USjZcfj8yxE</li>
+
 Covering things like commiting changes, concept of branches, and <br>
 various other git commands, remote repositories etc.<br>
-##### Introduction to Neural Networks
+<br>
+Started with **Neural Networks** <br>
+* Had a Basic Introduction of what Neural Networks are, Binary Classification, <br>
+Computational Graphs of Neural Networks, Activation Functions like *Sigmoid*, <br>
+*ReLU* & *Leaky ReLU* and their respective advantages in different scenarios. <br>
+Learnt NN Notations, why *Non Linear Activation Functions* are better to be used <br>
+and Implementation of Gradient Descent for Neural Networks.
+
+#### Week 3
+Continued with *Neural Networks* <br>
+* Learnt Forward and Backward Propagation and Weight Initialization. <br>
+
+
+
+
+
