@@ -40,7 +40,8 @@ via various methods.
 & Programming frameworks
 * Lastly, studied about Softmax Regression
 * CNNs and RNNs were also intoduced this week, & also made a small CNN project on <br>
-**Digit Recognization** using Tensorflow with its code attached in this repo.
+**Digit Recognization** using Tensorflow with its code attached:- <br>
+https://github.com/PrithviChauhan732/Machine-Intelligence-SoC/blob/main/TensorFlow1.ipynb
 
 #### Week 5
 
