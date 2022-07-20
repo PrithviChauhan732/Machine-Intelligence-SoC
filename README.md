@@ -27,9 +27,24 @@ Computational Graphs of Neural Networks, Activation Functions like *Sigmoid*, <b
 Learnt NN Notations, why *Non Linear Activation Functions* are better to be used <br>
 and Implementation of Gradient Descent for Neural Networks.
 
-#### Week 3
+#### Week 3 & Week 4
 Continued with **Neural Networks** <br>
 * Learnt Forward and Backward Propagation and Weight Initialization. <br>
+* Had a brief on Deep Neural Networks, training & testing them. Learnt <br>
+about Bias/Variance, Regularization - Dropout & other methods, Early stopping <br>
+and model Ensembeles.
+* Got to know the need of normalizing Inputs. Learnt what are vanishing and <br>
+exploding gradients, Weight Initialization for Deep NNs, how to optimize algorithms<br>
+via various methods.
+* Learnt what are the various hyperparameters, their tuning, Batch Normalization<br>
+& Programming frameworks
+* Lastly, studied about Softmax Regression
+* CNNs and RNNs were also intoduced this week, & also made a small CNN project on <br>
+**Digit Recognization** using Tensorflow
+
+#### Week 5
+
+
 
 
 
