@@ -63,7 +63,7 @@ Learnt about Experience Replay & some Action-Selection Policies. <br>
 
 ##### Also Started with the Final Poject......Week 8 & 9 :)
 
-### Thanks a lot to my mentors **Azim & Tanmay** who guided me throuhout my project and helped me learn so much <3
+### Thanks a lot to my mentors **Aziz & Tanmay** who guided me throuhout my project and helped me learn so much <3
 
 
 
